@@ -1,0 +1,1 @@
+package com.example.demo.simpletest.util;/** * ProjectName * <BR><B>FileDescription：</B><BR><BR> * DescriptionDetail * * @author ：ZhangHanYuan zhang.hanyuan@qq.com * @date : 2019-05-14 16:42 * @since 1.8 */public class HostPortUtil {}
