@@ -1,0 +1,1 @@
+package com.example.demo.simpletest.codetest;/** * ProjectName * <BR><B>FileDescription：</B><BR><BR> * DescriptionDetail * * @author ：ZhangHanYuan zhang.hanyuan@qq.com * @date : 2019-06-25 19:27 * @since 1.8 */public class TestCode {    String a = "";    String b = "";    String c = "";    String d = "";    String e = "";    String f = "";    String g = "";}
